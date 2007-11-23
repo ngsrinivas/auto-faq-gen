@@ -1,0 +1,5 @@
+#summary Page logs our activity
+
+=== Friday, Nov 23 ===
+  * Created the project homepage
+  * Created the Google group for private discussion
